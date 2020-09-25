@@ -1,12 +1,10 @@
 import { NgModule } from '@angular/core';
-import { NgxLongPress2Component } from './ngx-long-press2.component';
-
+import { NgxLongPress2Directive } from './ngx-long-press2.directive';
 
 
 @NgModule({
-  declarations: [NgxLongPress2Component],
-  imports: [
-  ],
-  exports: [NgxLongPress2Component]
+  declarations: [NgxLongPress2Directive],
+  exports: [NgxLongPress2Directive]
 })
-export class NgxLongPress2Module { }
+export class NgxLongPress2Module {
+}
