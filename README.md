@@ -92,7 +92,7 @@ Other modules in your application like for lazy loading import ` NgxLongPress2Mo
 | minTime      | `Input()`  | `number`    | `500` |  the minimum time to fire  onLongPress event (in ms)
 | maxTime      | `Input()`  | `number`    | `2000` |  the maximum time to fire  onReleasePressing event (in ms)
 | onLongPress  | `Output()` | `EventEmitter<void>`    | - | emits when the minTime is exceeded 
-| onLongPressing  | `Output()` | `EventEmitter<void>`    | - | emits when the user is pressing 
+| onLongPressing  | `Output()` | `EventEmitter<number>`    | - | emits when the user is pressing and the time lapsed in ms will be emitted 
 | onReleasePressing  | `Output()` | `EventEmitter<void>`    | - | emits when the maxTime is exceeded or  touchend, mouseup and mouseleave haven been emitted
 
 
