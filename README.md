@@ -12,6 +12,12 @@
 [![Join the chat at https://gitter.im/angular-material-extensions/Lobby](https://badges.gitter.im/angular-material-extensions/Lobby.svg)](https://gitter.im/angular-material-extensions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
+<p align="center">
+  <img alt="@angular-material-extensions/select-country demonstration" style="text-align: center;"
+   src="https://raw.githubusercontent.com/anthonynahas/ngx-long-press2/HEAD/assets/v1.0.0/demo.gif">
+</p>
+
+
 
 ## Built by and for developers :heart:
 Do you have any question or suggestion ? Please do not hesitate to contact us!
@@ -102,7 +108,23 @@ Other modules in your application like for lazy loading import ` NgxLongPress2Mo
 
 ## [Usage](https://anthonynahas.github.io/ngx-long-press2)
 
+```html
+  <button mat-raised-button
+          ngxLongPress2
+          [color]="this.timeLapsed1 > 1000? 'primary' : 'warn'"
+          (onLongPress)="onLongPress()"
+          (onLongPressing)="onLongPressing($event)"
+          (onReleasePressing)="onReleasePressing()">
+  {{ this.timeLapsed1 > 0 ? this.timeLapsed1 + ' ms' : 'PRESS ME'}}
+</button>
+```
 
+
+
+<p align="center">
+  <img alt="@angular-material-extensions/select-country demonstration" style="text-align: center;"
+   src="https://raw.githubusercontent.com/anthonynahas/ngx-long-press2/HEAD/assets/v1.0.0/demo_full2.png">
+</p>
 
 ```html
 <button ngxLongPress2></button>
