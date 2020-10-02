@@ -5,13 +5,18 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build:docs": "npx compodoc -p projects/ngx-long-press2/tsconfig.lib.json --hideGenerator --disableCoverage -d dist/ngx-long-press2-demo/browser/doc/",
+    "deploy": "ng deploy --no-build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "dev:ssr": "ng run ngx-long-press2-demo:serve-ssr",
     "serve:ssr": "node dist/ngx-long-press2-demo/server/main.js",
     "build:ssr": "ng build --prod && ng run ngx-long-press2-demo:server:production",
-    "prerender": "ng run ngx-long-press2-demo:prerender"
+    "serve:prerender": "cd dist/ngx-long-press2-demo/browser && http-server",
+    "postinstall": "ngcc",
+    "prerender": "ng run ngx-long-press2-demo:prerender",
+    "prerender:ghpages": "ng run ngx-long-press2-demo:prerender_ghpages"
   },
   "private": true,
   "dependencies": {
