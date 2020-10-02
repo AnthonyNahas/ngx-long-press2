@@ -1,7 +1,7 @@
 {
   "name": "ngx-long-press2",
   "description": "Angular Library to handle long mouse clicks event for desktop and long touch events for mobile and tablets",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://ngx-long-press2.firebaseapp.com",
   "author": {
     "name": "anthonynahas",
