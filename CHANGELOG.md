@@ -1,3 +1,22 @@
+# [2.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/1.0.0...2.0.0) (2022-01-11)
+
+
+### Bug Fixes
+
+* **project:** updated the deps ([6e7ea4a](https://github.com/anthonynahas/ngx-long-press2/commit/6e7ea4a9dcd8db7c7c168b28a00d19b06037bcb9))
+* **project:** updated the deps ([aa11217](https://github.com/anthonynahas/ngx-long-press2/commit/aa11217c5f42737b1a5f04056e33074590f6e8fc))
+* **project:** upgraded ([32ae8ac](https://github.com/anthonynahas/ngx-long-press2/commit/32ae8ac3299a2516108583b8c0f93f829ea1adfd))
+* **project:** upgraded ([a547b65](https://github.com/anthonynahas/ngx-long-press2/commit/a547b656840de4d125d789068064c1465e28256c))
+* **project:** upgraded angular to v12 ([e8ab4d0](https://github.com/anthonynahas/ngx-long-press2/commit/e8ab4d06f5ad1f76db6d81096b65ef6b1c981bdd))
+* **project:** upgraded angular to v12 ([43df47a](https://github.com/anthonynahas/ngx-long-press2/commit/43df47a3b50cc9963eb1b29374e99247ac64467c))
+* **project:** upgraded angular to v13 ([5b2fb8a](https://github.com/anthonynahas/ngx-long-press2/commit/5b2fb8a424106748af1616b744df6bd450eb3c4c))
+* **project:** upgraded angular to v13 ([2541667](https://github.com/anthonynahas/ngx-long-press2/commit/25416679e032eb71bed90b4cbf8f75ebe596b110))
+* **project:** upgraded express engine ([eab9008](https://github.com/anthonynahas/ngx-long-press2/commit/eab9008f32788ecdaf43e6b6b6abbd02d158e847))
+* **project:** upgraded express engine ([822c73f](https://github.com/anthonynahas/ngx-long-press2/commit/822c73f96703aa60930f73722fb1818281c7506d))
+* **project:** upgraded the project to angular material to v11 ([05e9a72](https://github.com/anthonynahas/ngx-long-press2/commit/05e9a725cc3e52b5d445e1c7c4fd3995d1d24f02))
+* **project:** upgraded the project to angular material to v11 ([37d9f20](https://github.com/anthonynahas/ngx-long-press2/commit/37d9f202b27ea452adbaacfb4822e9ea64a8d3cf))
+* **project:** upgraded the project to angular v11 ([72b85be](https://github.com/anthonynahas/ngx-long-press2/commit/72b85be1001f19db522218cb35d6e0838d029da2))
+
 # 1.0.0 (2020-10-02)
 
 
