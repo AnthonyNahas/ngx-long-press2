@@ -29,7 +29,7 @@
     "url": "https://github.com/anthonynahas/ngx-long-press2/issues"
   },
   "scripts": {
-    "build": "../../node_modules/.bin/ng build ngx-long-press2 --prod",
+    "build": "../../node_modules/.bin/ng build ngx-long-press2 --configuration=production",
     "clean": "rm -rf ../../dist",
     "lint": "../../node_modules/.bin/ng lint ngx-long-press2",
     "resync:readme": "rsync -a ../../README.md ../../dist/ngx-long-press2/",
@@ -45,8 +45,8 @@
     "test:watch": "../../node_modules/.bin/jest --coverage --watch"
   },
   "peerDependencies": {
-    "@angular/common": "^10.0.14",
-    "@angular/core": "^10.0.14"
+    "@angular/common": "^14.x",
+    "@angular/core": "^14.x"
   },
   "dependencies": {
     "tslib": "^2.0.0"
