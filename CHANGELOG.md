@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/2.0.0...3.0.0) (2022-06-21)
+
+
+### Bug Fixes
+
+* **project:** updated dependencies ([3a1b6fe](https://github.com/anthonynahas/ngx-long-press2/commit/3a1b6fed0ef2a265db703d75d1af3de4f0262d6c))
+* **project:** updated peer dependencies ([a1a5523](https://github.com/anthonynahas/ngx-long-press2/commit/a1a5523309ef0cd75d84fe5eb13b9d35a9690721))
+* **project:** updated peer dependencies ([18b44e2](https://github.com/anthonynahas/ngx-long-press2/commit/18b44e200e7b27d7969c05213999daccd07bc75e))
+* **project:** upgraded angular universal ([a71a2a4](https://github.com/anthonynahas/ngx-long-press2/commit/a71a2a4c6c70523ca62c166111ccc5bdf39e2cb4))
+* **project:** upgraded to angular material v14 ([f41d94e](https://github.com/anthonynahas/ngx-long-press2/commit/f41d94eb8cde3a1cce131d2efe2f1afe2ec3d720))
+* **project:** upgraded to angular material v14 ([8ad3632](https://github.com/anthonynahas/ngx-long-press2/commit/8ad3632cf6d1eeff2e077bf442e02215c5536f43))
+* **project:** upgraded to angular v11 ([05aea70](https://github.com/anthonynahas/ngx-long-press2/commit/05aea70ce9c47fd2f4889c74459fed0665312a93))
+* **project:** upgraded to angular v14 ([f0b7703](https://github.com/anthonynahas/ngx-long-press2/commit/f0b77034d19e34983aab43429c7f0f1f233241fe))
+
 # [2.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/1.0.0...2.0.0) (2022-01-11)
 
 
