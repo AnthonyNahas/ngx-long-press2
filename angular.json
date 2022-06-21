@@ -279,7 +279,6 @@
       }
     }
   },
-  "defaultProject": "ngx-long-press2-demo",
   "cli": {
     "analytics": "cedecc33-7446-4f54-a534-fd69bc169957"
   }
