@@ -1,5 +1,12 @@
 
 
+## [4.0.1](https://github.com/anthonynahas/ngx-long-press2/compare/4.0.0...4.0.1) (2023-02-21)
+
+
+### Bug Fixes
+
+* **project:** minor ([9524493](https://github.com/anthonynahas/ngx-long-press2/commit/9524493d601e87bbcd5c26622fa5546a27b748a9))
+
 # [4.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/3.0.0...4.0.0) (2023-02-21)
 
 
