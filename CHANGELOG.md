@@ -1,3 +1,17 @@
+
+
+# [4.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/3.0.0...4.0.0) (2023-02-21)
+
+
+### Bug Fixes
+
+* **docs:** minor ([9ee05e5](https://github.com/anthonynahas/ngx-long-press2/commit/9ee05e50bbfee5a04f538b5ef89e2869e14904df))
+* **project:** updated the readme ([1765b3f](https://github.com/anthonynahas/ngx-long-press2/commit/1765b3ff2698069eda8a22ce0580fea6add925fe))
+* **project:** updated the readme ([d833bd7](https://github.com/anthonynahas/ngx-long-press2/commit/d833bd77fc3d2fc92313c9aab514d297294d8479))
+* **project:** upgraded material to v15 ([a45708f](https://github.com/anthonynahas/ngx-long-press2/commit/a45708f600124df975a86d560aba718a1a435213))
+* **project:** upgraded ng to v15 ([099f940](https://github.com/anthonynahas/ngx-long-press2/commit/099f940daa40951057eb0f56663896367f1ec128))
+* **project:** upgraded universal to v15 ([9833bc5](https://github.com/anthonynahas/ngx-long-press2/commit/9833bc5ba3890626f9719b5c2c23575cf6a69f2f))
+
 # [3.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/2.0.0...3.0.0) (2022-06-21)
 
 
@@ -51,4 +65,3 @@
 * **project:** added angular-cli-ghpages ([2662bd4](https://github.com/anthonynahas/ngx-long-press2/commit/2662bd4f9f1844b4bfee09d854166e04d167e082))
 * **project:** added compo doc to the project ([42c1e5c](https://github.com/anthonynahas/ngx-long-press2/commit/42c1e5cd2deb7a221412716b5652e9475a318645))
 * **project:** added universal support and releast it packages ([8fb1848](https://github.com/anthonynahas/ngx-long-press2/commit/8fb1848942134e18926647356912eb6b36e7abf9))
-
