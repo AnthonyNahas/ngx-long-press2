@@ -1,5 +1,18 @@
 
 
+# [5.0.0](https://github.com/anthonynahas/ngx-long-press2/compare/4.0.1...5.0.0) (2023-06-15)
+
+
+### Bug Fixes
+
+* **project:** minor ([b71be01](https://github.com/anthonynahas/ngx-long-press2/commit/b71be01008f972e8353b3dfbbd65b4f04e142c90))
+* **project:** minor ([139a582](https://github.com/anthonynahas/ngx-long-press2/commit/139a5823ccd95e509af04c7a05f741d988565ebf))
+* **project:** minor ([6703a2e](https://github.com/anthonynahas/ngx-long-press2/commit/6703a2ea5d7f068ab57976e74b7b68274e619717))
+* **project:** readme updated ([5f3ba36](https://github.com/anthonynahas/ngx-long-press2/commit/5f3ba36d63bc6df7dd8b18750f3852953550b448))
+* **project:** upgraded angular core and cli to v16 ([09e9675](https://github.com/anthonynahas/ngx-long-press2/commit/09e9675659dd1a38a2380324f752bae2cc5bd5a4))
+* **project:** upgraded angular material ([621265d](https://github.com/anthonynahas/ngx-long-press2/commit/621265dd99a2c700fd1883200072bc49da8003e8))
+* **project:** upgraded angular universal ([b135992](https://github.com/anthonynahas/ngx-long-press2/commit/b1359924c5eaca732e8dafc614bf3b930a41f281))
+
 ## [4.0.1](https://github.com/anthonynahas/ngx-long-press2/compare/4.0.0...4.0.1) (2023-02-21)
 
 
