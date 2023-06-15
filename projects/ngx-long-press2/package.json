@@ -45,14 +45,14 @@
     "test:watch": "../../node_modules/.bin/jest --coverage --watch"
   },
   "peerDependencies": {
-    "@angular/common": "^15.x",
-    "@angular/core": "^15.x"
+    "@angular/common": "^16.x",
+    "@angular/core": "^16.x"
   },
   "dependencies": {
     "tslib": "^2.0.0"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=16"
   },
   "release-it": {
     "git": {
