@@ -180,7 +180,7 @@ $ npm start
 ---
 
 
-## Who is using ngx-mailto? Awesome apps?
+## Who is using ngx-long-press2? Awesome apps?
 
 1. [Nahaus.de](https://nahaus.de)
 
@@ -199,7 +199,7 @@ This project is supported by [jetbrains](https://www.jetbrains.com/) with 1 ALL 
 
 ## License
 
-Copyright (c) 2022 [Anthony Nahas](https://github.com/AnthonyNahas). Licensed under the MIT License (MIT) <p align="center">
+Copyright (c) 2023 [Anthony Nahas](https://github.com/AnthonyNahas). Licensed under the MIT License (MIT) <p align="center">
                                                                                                             <img alt="angular-material-extensions's logo"
                                                                                                              height="92px" width="92px" style="text-align: center;" 
                                                                                                              src="https://cdn.jsdelivr.net/gh/angular-material-extensions/select-country@master/assets/badge_made-in-germany.svg">
