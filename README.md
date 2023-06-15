@@ -53,7 +53,7 @@ View all the directives and components in action at [https://anthonynahass.githu
 <a name="dependencies"/>
 
 ## Dependencies
-* [Angular](https://angular.io) developed and tested with `15.x`
+* [Angular](https://angular.io) developed and tested with `16.x`
 
 ---
 
@@ -170,7 +170,7 @@ $ npm start
 
 ## Support
 + Drop an email to: [Anthony Nahas](mailto:anthony.na@hotmail.de)
-+ or open an appropriate [issue](https://github.com/angular-material-extensions/select-country/issues)
++ or open an appropriate [issue](https://github.com/AnthonyNahas/ngx-long-press2/issues)
 + let us chat on [Gitter](https://gitter.im/angular-material-extensions/Lobby)
  
  Built by and for developers :heart: we will help you :punch:
